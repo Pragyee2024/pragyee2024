@@ -36,16 +36,10 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pragyee2024&layout=compact&theme=tokyonight&title_color=ea7689&icon_color=ea7689&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 🔥 Streak Stats
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pragyee2024&background=282a36&border=ffffff&stroke=ffffff40&ring=ff6e96&fire=ff6e96&currStreakNum=79e6f2&currStreakLabel=79e6f2&sideNums=ff6e96&sideLabels=ff6e96&dates=ffffff&hide_border=false" alt="streak stats" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pragyee2024/pragyee2024/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=pragyee2024&bg_color=00000000&color=ea7689&line=ea7689&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -55,4 +49,4 @@
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/pragyee2024">pragyee2024</a></i></p>
+<p align="center"><i>⭐️ <a href="https://github.com/pragyee2024">pragyee2024</a></i></p>
