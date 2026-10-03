@@ -49,7 +49,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pragyee2024/pragyee2024/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=pragyee2024&bg_color=00000000&color=ea7689&line=ea7689&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
