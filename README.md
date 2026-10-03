@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pragyee2024">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea7689,100:a371f7&height=200&section=header&text=Hello!%20I'm%20Pragyee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Tech%20Enthusiast%20%7C%20Computer%20Engineering%20Student&descSize=20&descAlignY=58&descAlign=50&animation=fadeIn" alt="Hello! I'm Pragyee" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ea7689,100:a371f7&height=200&section=header&text=Hello!%20I'm%20Pragyee&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Computer%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Always%20Building&descSize=20&descAlignY=58&descAlign=50&animation=fadeIn" alt="Hello! I'm Pragyee" />
   </a>
 </p>
 
@@ -60,4 +60,4 @@
 
 
 
-<p align="center"><i>⭐️ From <a href="https://github.com/pragyee2024">pragyee2024</a></i></p>
+<p align="center"><i>⭐️ <a href="https://github.com/pragyee2024">pragyee2024</a></i></p>
