@@ -44,6 +44,8 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=pragyee2024&layout=compact&theme=tokyonight&title_color=ea7689&icon_color=ea7689&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=pragyee2024&hide_border=true&background=00000000&ring=ea7689&fire=ea7689&currStreakNum=a371f7&currStreakLabel=a371f7&sideNums=ea7689&sideLabels=ea7689&dates=c9d1d9" alt="GitHub streak" />
 </p>
 
